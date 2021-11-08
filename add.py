@@ -1,4 +1,4 @@
-var= 1
-var2 = 2
+var= 38
+var2 = 65
 sum = var + var2
 print(f"{var} + {var2} = ", sum )
